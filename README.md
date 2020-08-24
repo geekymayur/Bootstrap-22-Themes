@@ -30,7 +30,7 @@ Get all themes [Online](https://bootswatch.com/) here you will find all themes a
 ## Usage
 
 ```
-Download the themes and just import in your workspace and link with your html file.
+Download the (themes) and just (import) in your (workspace) and (link) with your html file.
 ```
 
 
